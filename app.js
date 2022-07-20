@@ -157,7 +157,7 @@ function spawnEnemy() {
 }
 
 
-let animationID
+
 let score = 0;
 function animate() {                             //funcion en bucle
 
